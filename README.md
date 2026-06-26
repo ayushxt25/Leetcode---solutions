@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
