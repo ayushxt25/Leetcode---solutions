@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0087-scramble-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0087-scramble-string) |
 ## Backtracking
 |  |
 | ------- |
