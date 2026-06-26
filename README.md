@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
