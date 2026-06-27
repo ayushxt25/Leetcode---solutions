@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
 ## Recursion
 |  |
 | ------- |
